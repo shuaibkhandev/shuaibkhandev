@@ -86,14 +86,6 @@ A document-based AI assistant that allows users to chat with PDFs using Retrieva
 
 ---
 
-## 📊 GitHub Stats
-
-![Shuaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuaibkhandev&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuaibkhandev&layout=compact&theme=github_dark)
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
